@@ -1,5 +1,15 @@
 {
-  cells: [
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ManoloVM21/MachineLearningTeam4/blob/main/notebooks/income_table_creation.csv\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "code",
       "execution_count": null,
@@ -2289,7 +2299,8 @@
   "metadata": {
     "colab": {
       "name": "starter_housing.ipynb",
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "kernelspec": {
       "display_name": "Python 3",
